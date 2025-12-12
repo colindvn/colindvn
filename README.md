@@ -17,11 +17,11 @@
 -->
 
 
-## I'm a Software Engineer specialized in Artificial Intelligence
+## I'm a Data Scientist / Data Engineer
 
 - :snake: Python/OOP - ML - DL enthousiast
 - :video_game: I love solving problems and making video games
-- :earth_africa: Exploring the world, swimming and climbing :swimmer:
+- :earth_africa: Exploring the world, diving and climbing :swimmer:
 
 
 ### Languages and Tools:
